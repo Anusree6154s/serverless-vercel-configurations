@@ -12,4 +12,5 @@ server.use("/api", router);
 //   console.log(`Server running on port ${port}`);
 // });
 
+export const config = { maxDuration: 30 };
 module.exports = server;

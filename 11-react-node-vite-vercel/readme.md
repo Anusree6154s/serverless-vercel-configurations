@@ -18,5 +18,6 @@
        emptyOutDir: true, // also necessary
    }
    ```
-5. Create vercel.json file outside client and server folders
-6. Run `vercel`
+5. serve cient from serevr as `server.use(express.static(path.resolve(__dirname, "../client/build")));`
+6. Create vercel.json file outside client and server folders
+7. Run `vercel`
