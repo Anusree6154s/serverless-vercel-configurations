@@ -21,3 +21,13 @@
 5. serve cient from serevr as `server.use(express.static(path.resolve(__dirname, "../client/build")));`
 6. Create vercel.json file outside client and server folders
 7. Run `vercel`
+
+## To have continuous deployment on vercel
+- Vercel project > `Settings` > `Git` > connect github repo
+- Vercel project > `Settings` > `Builds and Deployment` > `Root Directory` > add subdirectory name
+- Vercel project > `Deployments` > three dots > `Create Deployment` > click on branch name
+
+## Vercel url
+- https://serverless-vercel-configurations-11.vercel.app/
+- ![alt text](image.png)
+- (check for vercel updates if the website goes down)
