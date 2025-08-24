@@ -1,5 +1,5 @@
 {
-  "name": "node-vercel-2",
+  "name": "02-node-vercel-js-builds-api-without-indexjs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

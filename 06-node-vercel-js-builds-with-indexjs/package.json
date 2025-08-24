@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-serverless-2",
+  "name": "06-node-vercel-js-builds-with-indexjs",
   "version": "1.0.0",
   "main": "api/index.js",
   "scripts": {

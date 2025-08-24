@@ -5,7 +5,7 @@
     "vercel": "^41.0.0",
     "why-is-node-running": "^3.2.2"
   },
-  "name": "nodejs-serverless",
+  "name": "01-node-vercel-js-funtions-api-without-indexjs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

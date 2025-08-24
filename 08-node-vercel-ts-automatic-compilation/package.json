@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-serverless-2",
+  "name": "08-node-vercel-ts-automatic-compilation",
   "version": "1.0.0",
   "main": "api/index.js",
   "scripts": {
