@@ -1,4 +1,4 @@
-# Vercel config for vite-react and node fullstack website
+# Vercel config for node server with minimal files
 
 - serving client via backend using express.static()
 - works in production, but have to build client everytime we make changes to client
@@ -28,6 +28,4 @@
 - Vercel project > `Deployments` > three dots > `Create Deployment` > click on branch name
 
 ## Vercel url
-- https://serverless-verel-configurations-13.vercel.app/
-- <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/77d2f02c-905c-4768-b535-408ed4de1164" />
 - (check for vercel updates if the website goes down)
