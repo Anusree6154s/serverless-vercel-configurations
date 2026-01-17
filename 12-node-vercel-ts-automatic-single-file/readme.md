@@ -28,4 +28,6 @@
 - Vercel project > `Deployments` > three dots > `Create Deployment` > click on branch name
 
 ## Vercel url
+- https://serverless-vercel-configurations-12.vercel.app/
+- <img width="1916" height="937" alt="image" src="https://github.com/user-attachments/assets/a5837abc-6c6f-41ae-ae2b-03799e129ae5" />
 - (check for vercel updates if the website goes down)
