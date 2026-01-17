@@ -14,11 +14,11 @@
 4. In client/vite.config.ts, add
    ```js
    build: {
-       outDir: 'build',
+       outDir: 'dist',
        emptyOutDir: true, // also necessary
    }
    ```
-5. serve cient from serevr as `server.use(express.static(path.resolve(__dirname, "../client/build")));`
+5. serve cient from serevr as `server.use(express.static(path.resolve(__dirname, "../client/dist")));`
 6. Create vercel.json file outside client and server folders
 7. Run `vercel`
 
@@ -28,6 +28,6 @@
 - Vercel project > `Deployments` > three dots > `Create Deployment` > click on branch name
 
 ## Vercel url
-- https://serverless-vercel-configurations-11.vercel.app/
-- ![alt text](image.png)
+- https://serverless-verel-configurations-13.vercel.app/
+- <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/77d2f02c-905c-4768-b535-408ed4de1164" />
 - (check for vercel updates if the website goes down)
